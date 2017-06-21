@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/nicholas-leonard/word2vec/blob/master/questions-words.txt" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/vu3jej/scrapy-corenlp" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/School/tensorflow_work" />
