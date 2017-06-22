@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/tiy-gvl-python/linear-regression" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://raw.githubusercontent.com/llSourcell/linear_regression_live/master/data.csv" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/School/tensorflow_work" />
